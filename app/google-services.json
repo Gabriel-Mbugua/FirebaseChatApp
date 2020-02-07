@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "447733646974",
+    "firebase_url": "https://firemessage-d54c1.firebaseio.com",
+    "project_id": "firemessage-d54c1",
+    "storage_bucket": "firemessage-d54c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447733646974:android:0966f29bfb73f7d109fa2f",
+        "android_client_info": {
+          "package_name": "com.gabriel.firebasemessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447733646974-m9q70uiqbsd5v2ij4m4j8fbo8624km9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQxvpDFkZ6bFcicxjrMtqOBOXAIr_09fI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447733646974-m9q70uiqbsd5v2ij4m4j8fbo8624km9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
